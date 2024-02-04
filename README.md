@@ -185,3 +185,6 @@ In the context of our regex pattern `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6
 ### Author
 
 As a full-stack coding boot camp student, I am constantly exploring new technologies and techniques to broaden my development expertise. Feel free to connect with me, Helen Colon, and follow my coding journey on GitHub at https://github.com/Lychnian.
+
+Regex URL Tutorial Gist: https://gist.github.com/Lychnian/e264fbb5932ab7dbcaa020aafba2e2b3
+
