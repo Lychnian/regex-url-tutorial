@@ -1,4 +1,5 @@
-![Regex URL](https://gist.github.com/assets/140586279/b64caddd-9ee4-4189-bb9f-e1fc0a2119ba)
+![Regex URL](https://github.com/Lychnian/regex-url-tutorial/assets/140586279/b7866bdc-00ac-4608-83c0-580ce2915ca3)
+
 
 
 # Regex URL Tutorial
@@ -15,7 +16,7 @@ In this tutorial, we will examine a regex pattern that is designed to match diff
 This regex pattern effectively validates the standard URL (as in our tutorial sample URL) `https://www.examplesample.com/about-us` by sequentially matching its protocol or scheme `https://`, sub domain `www.` domain name `examplesample`, top-level domain `.com`, and path `/about-us`. 
 
 
-![URL Anatomy](https://gist.github.com/assets/140586279/2b82c22d-c3e9-4fe5-ac78-8f10f2252161)
+![URL Anatomy](https://github.com/Lychnian/regex-url-tutorial/assets/140586279/4fe4e963-504f-4d40-8289-a7dd5f49e738)
 
 
 The regex pattern ensures that each of these components is present and correctly formatted, making it a useful tool for URL validation in web development contexts. Let's dive in and explore how it functions!
